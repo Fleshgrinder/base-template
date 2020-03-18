@@ -1,0 +1,5 @@
+gradle/wrapper/*    linguist-generated=true
+gradlew*            linguist-generated=true
+mvnw*               linguist-generated=true
+*.bat               eol=crlf
+*.lock              linguist-generated=true
